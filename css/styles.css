@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/black.jpg");
+}
+
+#content-wrapper {
+    background-image: url("../images/repeating.png");
+    float: left;
+}
